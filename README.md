@@ -162,6 +162,7 @@ POST /api/watchlist
 
 Import the Postman collection to test all endpoints:
 - Collection file: `CineVault.postman_collection.json`
+- Collection link: `https://ignazambudio-9516980.postman.co/workspace/Ignacio-Zambudio's-Workspace~81d47cdb-bdf6-442d-844e-de54845b14da/collection/53613429-2808b594-300a-4d8a-82e7-03d03802f352?action=share&source=copy-link&creator=53613429`
 
 ## 🌍 Deployment
 
