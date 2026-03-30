@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const { getMyWatchlist, addToWatchlist, updateWatchlistEntry, removeFromWatchlist } = require("../controllers/watchlistcontroller");
+const { getMyWatchlist, addToWatchlist, updateWatchlistEntry, removeFromWatchlist } = require("../controllers/watchlistController");
 const { protect } = require("../middlewares/auth");
 
 router.get("/",       protect, getMyWatchlist);
